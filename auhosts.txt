@@ -1,0 +1,41 @@
+# Homepage: https://github.com/y4lp/auto-update-blocker
+# Feel free to send me a pull request to make this list larger.
+# Any contribution will be appreciated.
+
+# Potplayer
+::1 tiara.daum.net
+::1 start.tiara.daum.net
+::1 get.daum.net
+::1 potplayer.daum.net
+::1 live.tvpot.daum.net
+::1 potplayertv.daum.net
+::1 p1-play.edge4k.com
+::1 p2-play.edge4k.com
+::1 p1-play.kgslb.com
+::1 kyson.ad.daum.net
+::1 display.ad.daum.net
+::1 analytics.ad.daum.net
+
+# CCleaner
+::1 analytics.ff.avast.com
+::1 ipm-provider.ff.avast.com
+::1 license.piriform.com
+::1 www.ccleaner.com
+::1 shepherd.ff.avast.concc.avast.com
+::1 ncc.avast.com.edgesuite.net
+::1 ip-info.ff.avast.com
+::1 license-api.ccleaner.com
+::1 ipm-provider.ff.avast.com
+
+# Internet Download Manager
+::1 tonec.com
+::1 www.tonec.com
+::1 registeridm.com
+::1 www.registeridm.com
+::1 secure.registeridm.com
+::1 internetdownloadmanager.com
+::1 www.internetdownloadmanager.com
+::1 secure.internetdownloadmanager.com
+::1 mirror.internetdownloadmanager.com
+::1 mirror2.internetdownloadmanager.com
+::1 mirror3.internetdownloadmanager.com
