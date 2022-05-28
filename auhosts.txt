@@ -39,3 +39,6 @@
 0.0.0.0 mirror.internetdownloadmanager.com
 0.0.0.0 mirror2.internetdownloadmanager.com
 0.0.0.0 mirror3.internetdownloadmanager.com
+
+# DNS rebind
+0.0.0.0 dns.msftncsi.com
